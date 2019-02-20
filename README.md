@@ -24,3 +24,10 @@ Python v3.6
 Boostrap
 
 Flask
+
+## Contacts
+
+Email:mariadelarosita078@gmail.com
+
+Phone Number: (+250)786421009
+
