@@ -16,3 +16,11 @@ With the application, a user will be able to:
 * See all news sources from the source they selected.
 * See Image description and time the news article was created.
 * Click on an article and read it fully from the news source
+
+## Technologies used
+
+Python v3.6
+
+Boostrap
+
+Flask
